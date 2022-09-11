@@ -1,0 +1,8 @@
+{
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {
+        "node": ">=13.0.0"
+    }
+}
