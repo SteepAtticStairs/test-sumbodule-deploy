@@ -1,0 +1,3 @@
+[submodule "AtticRadar"]
+	path = AtticRadar
+	url = https://github.com/SteepAtticStairs/test-submodule.git
